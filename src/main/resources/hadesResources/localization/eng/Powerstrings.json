@@ -1,2 +1,9 @@
 {
+  "${ModID}:HermesSwiftStrikePower": {
+    "NAME": "Hermes's Swift Strike",
+    "DESCRIPTIONS": [
+      "Your next attack is played twice.",
+      "Your next #b%1$s attacks are played twice."
+    ]
+  }
 }

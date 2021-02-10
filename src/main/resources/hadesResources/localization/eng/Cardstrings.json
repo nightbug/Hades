@@ -10,5 +10,9 @@
   "${ModID}:HermesRecovery": {
     "NAME": "Hermes's Quick Recovery",
     "DESCRIPTION": "Gain !B! Block."
+  },
+  "${ModID}:HermesSwiftStrike": {
+    "NAME": "Hermes's Swift Strike",
+    "DESCRIPTION": "Your next attack is played twice."
   }
 }
