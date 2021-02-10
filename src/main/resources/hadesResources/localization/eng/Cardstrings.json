@@ -66,5 +66,9 @@
   "${ModID}:AphroditeDyingLament": {
     "NAME": "Aphrodite's Dying Lament",
     "DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, deal !M! damage to ALL enemies."
+  },
+  "${ModID}:AthenaBlindingFlash": {
+    "NAME": "Athena's Blinding Flash",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable."
   }
 }
