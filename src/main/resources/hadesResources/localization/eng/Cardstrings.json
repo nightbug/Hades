@@ -62,5 +62,9 @@
     "EXTENDED_DESCRIPTION": [
       "NL (Apply !${ModID}:M! Vulnerable.)"
     ]
+  },
+  "${ModID}:AphroditeDyingLament": {
+    "NAME": "Aphrodite's Dying Lament",
+    "DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, deal !M! damage to ALL enemies."
   }
 }

@@ -15,7 +15,7 @@ import static Hades.util.actionShortcuts.*;
 
 public class AphroditeUnhealthyFixation extends abs_hades_card {
     private final static CardInfo cardInfo = new CardInfo(
-            AresCurseOfPain.class.getSimpleName(),
+            AphroditeUnhealthyFixation.class.getSimpleName(),
             COSTS[3],
             AbstractCard.CardType.SKILL,
             CardTarget.ENEMY
