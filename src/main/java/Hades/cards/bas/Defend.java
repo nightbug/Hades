@@ -21,11 +21,9 @@ public class Defend extends abs_hades_card {
     public static final String ID = makeID(cardInfo.cardName);
     private static final int BLOCK = 5;
     private static final int UPG_BLOCK = 3;
-    private static final int ENERGY = 2;
     public Defend() {
         super(cardInfo, false);
         setBlock(BLOCK, UPG_BLOCK);
-        setMagic(ENERGY);
     }
     @Override
     public void use(AbstractPlayer p, AbstractMonster m) {
