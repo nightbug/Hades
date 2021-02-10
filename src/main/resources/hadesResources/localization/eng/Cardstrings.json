@@ -78,5 +78,9 @@
   "${ModID}:ArtemisSupportFire": {
     "NAME": "Artemis's Support Fire",
     "DESCRIPTION": "Deal !D! damage."
+  },
+  "${ModID}:ArtemisFullyLoaded": {
+    "NAME": "Artemis's Fully Loaded",
+    "DESCRIPTION": "Shuffle !M! *Artemis's *Support *Fire into your draw pile."
   }
 }
