@@ -82,5 +82,9 @@
   "${ModID}:ArtemisFullyLoaded": {
     "NAME": "Artemis's Fully Loaded",
     "DESCRIPTION": "Shuffle !M! *Artemis's *Support *Fire into your draw pile."
+  },
+  "${ModID}:ArtemisHideBreaker": {
+    "NAME": "Artemis's Fully Loaded",
+    "DESCRIPTION": "Shuffle !M! *Artemis's *Support *Fire into your draw pile."
   }
 }

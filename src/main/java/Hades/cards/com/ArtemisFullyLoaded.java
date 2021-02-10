@@ -1,12 +1,9 @@
-package Hades.cards.unc;
+package Hades.cards.com;
 
 import Hades.cards.abs.abs_hades_card;
-import Hades.cards.com.ArtemisSupportFire;
 import Hades.enums.hadesCards;
-import Hades.powers.DoomPower;
 import Hades.util.CardInfo;
 import com.megacrit.cardcrawl.actions.common.MakeTempCardInDrawPileAction;
-import com.megacrit.cardcrawl.actions.watcher.TriggerMarksAction;
 import com.megacrit.cardcrawl.cards.AbstractCard;
 import com.megacrit.cardcrawl.characters.AbstractPlayer;
 import com.megacrit.cardcrawl.monsters.AbstractMonster;
