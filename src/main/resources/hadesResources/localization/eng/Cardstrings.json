@@ -70,5 +70,9 @@
   "${ModID}:AthenaBlindingFlash": {
     "NAME": "Athena's Blinding Flash",
     "DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable."
+  },
+  "${ModID}:AphroditeHeartbreak": {
+    "NAME": "Aphrodite's Heartbreak",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
   }
 }
