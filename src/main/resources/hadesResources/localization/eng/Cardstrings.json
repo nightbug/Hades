@@ -35,6 +35,9 @@
     "NAME": "Ares's Aid",
     "DESCRIPTION": "Deal !D! damage to a random enemy. NL Deals damage an additional time for each *Ares card played this combat.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage to a random enemy !M! times. NL Deals damage an additional time for each *Ares card played this combat."
-
+  },
+  "${ModID}:AresViciousCycle": {
+    "NAME": "Ares's Vicious Cycle",
+    "DESCRIPTION": "Deal !D! damage. NL Costs !M! less for each attack played this turn."
   }
 }
