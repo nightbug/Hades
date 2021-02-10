@@ -14,5 +14,9 @@
   "${ModID}:HermesSwiftStrike": {
     "NAME": "Hermes's Swift Strike",
     "DESCRIPTION": "Your next attack is played twice."
+  },
+  "${ModID}:AresCurseOfAgony": {
+    "NAME": "Ares's Curse Of Agony",
+    "DESCRIPTION": "Apply !M! ${ModID}:Doom. NL All Enemies lose HP equal to their *Doom."
   }
 }

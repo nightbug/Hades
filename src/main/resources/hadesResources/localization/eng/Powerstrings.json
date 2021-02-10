@@ -5,5 +5,9 @@
       "Your next attack is played twice.",
       "Your next #b%1$s attacks are played twice."
     ]
+  },
+  "${ModID}:DoomPower": {
+    "NAME": "Impending Doom",
+    "DESCRIPTIONS": ["Loses #b%1$s HP when Doom is triggered."]
   }
 }
