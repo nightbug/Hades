@@ -47,5 +47,9 @@
   "${ModID}:AthenaSureFooting": {
     "NAME": "Athena's Sure Footing",
     "DESCRIPTION": "Gain !B! Block. "
+  },
+  "${ModID}:AphroditeUnhealthyFixation": {
+    "NAME": "Aphrodite's Unhealthy Fixation",
+    "DESCRIPTION": "${ModID}:Charm an enemy."
   }
 }

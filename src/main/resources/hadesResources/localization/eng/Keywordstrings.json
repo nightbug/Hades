@@ -11,5 +11,10 @@
     "PROPER_NAME": "Doom",
     "NAMES": ["doom"],
     "DESCRIPTION": "Target enemy loses HP to their Doom amount when Doom is triggered."
+  },
+  {
+    "PROPER_NAME": "Charm",
+    "NAMES": ["charm"],
+    "DESCRIPTION": "Stun target enemy."
   }
 ]
