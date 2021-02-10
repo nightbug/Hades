@@ -10,4 +10,16 @@ public class hadesCards {
     public static AbstractCard.CardTags ARES;
     @SpireEnum
     public static AbstractCard.CardTags ATHENA;
+    @SpireEnum
+    public static AbstractCard.CardTags APHRODITE;
+    @SpireEnum
+    public static AbstractCard.CardTags ARTEMIS;
+    @SpireEnum
+    public static AbstractCard.CardTags DEMETER;
+    @SpireEnum
+    public static AbstractCard.CardTags DIONYSUS;
+    @SpireEnum
+    public static AbstractCard.CardTags POSEIDON;
+    @SpireEnum
+    public static AbstractCard.CardTags ZEUS;
 }
