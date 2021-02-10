@@ -18,5 +18,9 @@
   "${ModID}:AresCurseOfAgony": {
     "NAME": "Ares's Curse Of Agony",
     "DESCRIPTION": "Apply !M! ${ModID}:Doom. NL All Enemies lose HP equal to their *Doom."
+  },
+  "${ModID}:AresCurseOfPain": {
+    "NAME": "Ares's Curse Of Pain",
+    "DESCRIPTION": "Apply !M! ${ModID}:Doom to ALL enemies. NL All Enemies lose HP equal to their *Doom."
   }
 }
