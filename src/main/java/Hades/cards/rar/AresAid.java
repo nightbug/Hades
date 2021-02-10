@@ -1,4 +1,4 @@
-package Hades.cards.com;
+package Hades.cards.rar;
 
 import Hades.cards.abs.abs_hades_card;
 import Hades.enums.hadesCards;
