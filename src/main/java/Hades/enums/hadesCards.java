@@ -8,4 +8,6 @@ public class hadesCards {
     public static AbstractCard.CardTags HERMES;
     @SpireEnum
     public static AbstractCard.CardTags ARES;
+    @SpireEnum
+    public static AbstractCard.CardTags ATHENA;
 }
