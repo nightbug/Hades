@@ -74,5 +74,9 @@
   "${ModID}:AphroditeHeartbreak": {
     "NAME": "Aphrodite's Heartbreak",
     "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
+  },
+  "${ModID}:ArtemisSupportFire": {
+    "NAME": "Artemis's Support Fire",
+    "DESCRIPTION": "Deal !D! damage."
   }
 }
