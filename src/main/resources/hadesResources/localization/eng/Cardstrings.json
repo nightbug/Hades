@@ -39,5 +39,9 @@
   "${ModID}:AresViciousCycle": {
     "NAME": "Ares's Vicious Cycle",
     "DESCRIPTION": "Deal !D! damage. NL Costs !M! less for each attack played this turn."
+  },
+  "${ModID}:AthenaHolyShield": {
+    "NAME": "Athena Holy Shield",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !B! Block. "
   }
 }
