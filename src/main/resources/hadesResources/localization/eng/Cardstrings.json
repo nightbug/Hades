@@ -26,5 +26,9 @@
   "${ModID}:AresImpendingDoom": {
     "NAME": "Ares's Impending Doom",
     "DESCRIPTION": "Deal !D! damage. NL Apply !M! ${ModID}:Doom. NL All Enemies lose HP equal to their *Doom."
+  },
+  "${ModID}:AresBlackMetal": {
+    "NAME": "Ares's Black Metal",
+    "DESCRIPTION": "Deal !D! damage !M! times."
   }
 }
