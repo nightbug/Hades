@@ -6,4 +6,6 @@ import com.megacrit.cardcrawl.cards.AbstractCard;
 public class hadesCards {
     @SpireEnum
     public static AbstractCard.CardTags HERMES;
+    @SpireEnum
+    public static AbstractCard.CardTags ARES;
 }
