@@ -51,5 +51,9 @@
   "${ModID}:AphroditeUnhealthyFixation": {
     "NAME": "Aphrodite's Unhealthy Fixation",
     "DESCRIPTION": "${ModID}:Charm an enemy."
+  },
+  "${ModID}:AphroditeBlownKiss": {
+    "NAME": "Aphrodite's Blown Kiss",
+    "DESCRIPTION": "Deal !D! damage and apply !M! Weak to ALL enemies."
   }
 }
