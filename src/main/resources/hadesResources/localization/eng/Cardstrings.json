@@ -30,5 +30,11 @@
   "${ModID}:AresBlackMetal": {
     "NAME": "Ares's Black Metal",
     "DESCRIPTION": "Deal !D! damage !M! times."
+  },
+  "${ModID}:AresAid": {
+    "NAME": "Ares's Aid",
+    "DESCRIPTION": "Deal !D! damage to a random enemy. NL Deals damage an additional time for each *Ares card played this combat.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to a random enemy !M! times. NL Deals damage an additional time for each *Ares card played this combat."
+
   }
 }
