@@ -1,6 +1,7 @@
 package Hades.cards.com;
 
 import Hades.cards.abs.abs_hades_card;
+import Hades.enums.hadesCards;
 import Hades.powers.DoomPower;
 import Hades.util.CardInfo;
 import com.megacrit.cardcrawl.actions.watcher.TriggerMarksAction;
@@ -26,6 +27,7 @@ public class AresImpendingDoom extends abs_hades_card {
         super(cardInfo, false);
         setDamage(DMG, UPG_DMG);
         setMagic(DOOM);
+        tags.add(hadesCards.ARES);
     }
     @Override
     public void use(AbstractPlayer p, AbstractMonster m) {
