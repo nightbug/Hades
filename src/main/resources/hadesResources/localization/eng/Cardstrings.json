@@ -41,7 +41,11 @@
     "DESCRIPTION": "Deal !D! damage. NL Costs !M! less for each attack played this turn."
   },
   "${ModID}:AthenaHolyShield": {
-    "NAME": "Athena Holy Shield",
+    "NAME": "Athena's Holy Shield",
     "DESCRIPTION": "Deal !D! damage. NL Gain !B! Block. "
+  },
+  "${ModID}:AthenaSureFooting": {
+    "NAME": "Athena's Sure Footing",
+    "DESCRIPTION": "Gain !B! Block. "
   }
 }
