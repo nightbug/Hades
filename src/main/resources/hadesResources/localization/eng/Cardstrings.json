@@ -55,5 +55,12 @@
   "${ModID}:AphroditeBlownKiss": {
     "NAME": "Aphrodite's Blown Kiss",
     "DESCRIPTION": "Deal !D! damage and apply !M! Weak to ALL enemies."
+  },
+  "${ModID}:AphroditeSweetSurrender": {
+    "NAME": "Aphrodite's Sweet Surrender",
+    "DESCRIPTION": "Apply !M! Vulnerable equal to target enemy's Weak.",
+    "EXTENDED_DESCRIPTION": [
+      "NL (Apply !${ModID}:M! Vulnerable.)"
+    ]
   }
 }
