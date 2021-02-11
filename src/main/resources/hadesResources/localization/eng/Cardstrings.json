@@ -102,5 +102,10 @@
   "${ModID}:DemeterRavenousWill": {
     "NAME": "Demeter's Ravenous Will",
     "DESCRIPTION": "Gain !M! Strength. NL Gain !${ModID}:M! Metallicize."
+  },
+  "${ModID}:PoseidonAid": {
+    "NAME": "Poseidon Aid",
+    "DESCRIPTION": "Gain !B! Block. NL Gain Block an additional time for each *Poseidon card played this combat.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block !M! times. NL Gain Block an additional time for each *Poseidon card played this combat."
   }
 }
