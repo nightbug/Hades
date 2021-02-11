@@ -24,7 +24,7 @@ public class PoseidonAid extends abs_hades_card {
     private static final int HITS = 1;
     public PoseidonAid() {
         super(cardInfo, false);
-        setMagic(BLOCK, UPG_BLOCK);
+        setBlock(BLOCK, UPG_BLOCK);
         setMagic(HITS);
         tags.add(hadesCards.POSEIDON);
     }
