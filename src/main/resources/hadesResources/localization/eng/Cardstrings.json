@@ -86,5 +86,9 @@
   "${ModID}:ArtemisHideBreaker": {
     "NAME": "Artemis's Fully Loaded",
     "DESCRIPTION": "Shuffle !M! *Artemis's *Support *Fire into your draw pile."
+  },
+  "${ModID}:DemeterGlacialGlare": {
+    "NAME": "Demeter's Glacial Glare",
+    "DESCRIPTION": "Gain !B! Block. NL Gain !M! Thorns."
   }
 }
