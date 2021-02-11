@@ -127,5 +127,10 @@
   "${ModID}:DionysusDrunkenStrike": {
     "NAME": "Dionysus Drunken Strike",
     "DESCRIPTION": "Deal !D! damage !M! times."
+  },
+  "${ModID}:ZeusAid": {
+    "NAME": "Zeus's Aid",
+    "DESCRIPTION": "Deal !D! damage to a random enemy. NL Deals damage an additional time for each *Zeus card played this combat.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to a random enemy !M! times. NL Deals damage an additional time for each *Zeus card played this combat."
   }
 }
