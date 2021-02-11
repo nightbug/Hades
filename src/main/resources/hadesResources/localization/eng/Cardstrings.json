@@ -98,5 +98,9 @@
   "${ModID}:DemeterMistralDash": {
     "NAME": "Demeter's Mistral Dash",
     "DESCRIPTION": "Gain !B! Block. NL Draw !M! Cards."
+  },
+  "${ModID}:DemeterRavenousWill": {
+    "NAME": "Demeter's Ravenous Will",
+    "DESCRIPTION": "Gain !M! Strength. NL Gain !${ModID}:M! Metallicize."
   }
 }
