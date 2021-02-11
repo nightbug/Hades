@@ -119,5 +119,9 @@
   "${ModID}:PoseidonSunkenTreasure": {
     "NAME": "Poseidon's Sunken Treasure",
     "DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity. NL Heal !${ModID}:M! HP."
+  },
+  "${ModID}:PoseidonHydraulicMight": {
+    "NAME": "Poseidon's Hydraulic Might",
+    "DESCRIPTION": "Deal !D! damage."
   }
 }
