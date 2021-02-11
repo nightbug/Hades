@@ -95,6 +95,8 @@
     "NAME": "Demeter's Nourished Soul",
     "DESCRIPTION": "Remove ALL Debuffs."
   },
-  
-
+  "${ModID}:DemeterMistralDash": {
+    "NAME": "Demeter's Mistral Dash",
+    "DESCRIPTION": "Gain !B! Block. NL Draw !M! Cards."
+  }
 }
