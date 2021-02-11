@@ -144,5 +144,9 @@
   "${ModID}:ZeusLightningStrike": {
     "NAME": "Zeus's Lightning Strike",
     "DESCRIPTION": "Deal !D! damage. NL Add !M! copy of this card into your discard pile."
+  },
+  "${ModID}:ZeusThunderFlare": {
+    "NAME": "Zeus's Thunder Flare",
+    "DESCRIPTION": "Play the top card of your draw pile."
   }
 }
