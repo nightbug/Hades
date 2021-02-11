@@ -132,5 +132,9 @@
     "NAME": "Zeus's Aid",
     "DESCRIPTION": "Deal !D! damage to a random enemy. NL Deals damage an additional time for each *Zeus card played this combat.",
     "UPGRADE_DESCRIPTION": "Deal !D! damage to a random enemy !M! times. NL Deals damage an additional time for each *Zeus card played this combat."
+  },
+  "${ModID}:ZeusLightningReflex": {
+    "NAME": "Zeus Lightning Reflex",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !B! Block."
   }
 }
