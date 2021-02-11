@@ -125,7 +125,7 @@
     "DESCRIPTION": "Deal !D! damage."
   },
   "${ModID}:DionysusDrunkenStrike": {
-    "NAME": "Dionysus Drunken Strike",
+    "NAME": "Dionysus's Drunken Strike",
     "DESCRIPTION": "Deal !D! damage !M! times."
   },
   "${ModID}:ZeusAid": {
@@ -134,7 +134,11 @@
     "UPGRADE_DESCRIPTION": "Deal !D! damage to a random enemy !M! times. NL Deals damage an additional time for each *Zeus card played this combat."
   },
   "${ModID}:ZeusLightningReflex": {
-    "NAME": "Zeus Lightning Reflex",
+    "NAME": "Zeus's Lightning Reflex",
     "DESCRIPTION": "Deal !D! damage. NL Gain !B! Block."
+  },
+  "${ModID}:ZeusDoubleStrike": {
+    "NAME": "Zeus's Double Strike",
+    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
   }
 }
