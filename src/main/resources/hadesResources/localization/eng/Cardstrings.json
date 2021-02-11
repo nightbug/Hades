@@ -111,5 +111,9 @@
   "${ModID}:AthenaBronze": {
     "NAME": "Athena's Bronze",
     "DESCRIPTION": "Gain !B! Block. NL Gain !M! Thorns."
+  },
+  "${ModID}:PoseidonTempestStrike": {
+    "NAME": "Poseidon's Tempest Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Deal !M! damage to ALL other enemies."
   }
 }
