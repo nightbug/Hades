@@ -107,5 +107,9 @@
     "NAME": "Poseidon Aid",
     "DESCRIPTION": "Gain !B! Block. NL Gain Block an additional time for each *Poseidon card played this combat.",
     "UPGRADE_DESCRIPTION": "Gain !B! Block !M! times. NL Gain Block an additional time for each *Poseidon card played this combat."
+  },
+  "${ModID}:AthenaBronze": {
+    "NAME": "Athena's Bronze",
+    "DESCRIPTION": "Gain !B! Block. NL Gain !M! Thorns."
   }
 }
