@@ -115,5 +115,9 @@
   "${ModID}:PoseidonTempestStrike": {
     "NAME": "Poseidon's Tempest Strike",
     "DESCRIPTION": "Deal !D! damage. NL Deal !M! damage to ALL other enemies."
+  },
+  "${ModID}:PoseidonSunkenTreasure": {
+    "NAME": "Poseidon's Sunken Treasure",
+    "DESCRIPTION": "Gain !M! Strength. NL Gain !M! Dexterity. NL Heal !${ModID}:M! HP."
   }
 }
