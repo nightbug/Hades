@@ -90,5 +90,11 @@
   "${ModID}:DemeterGlacialGlare": {
     "NAME": "Demeter's Glacial Glare",
     "DESCRIPTION": "Gain !B! Block. NL Gain !M! Thorns."
-  }
+  },
+  "${ModID}:DemeterNourishedSoul": {
+    "NAME": "Demeter's Nourished Soul",
+    "DESCRIPTION": "Remove ALL Debuffs."
+  },
+  
+
 }
