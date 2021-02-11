@@ -9,28 +9,29 @@ import com.megacrit.cardcrawl.monsters.AbstractMonster;
 import com.megacrit.cardcrawl.powers.VulnerablePower;
 
 import static Hades.Hades.makeID;
-import static Hades.util.actionShortcuts.*;
+import static Hades.util.actionShortcuts.doDmg;
+import static Hades.util.actionShortcuts.doPow;
 
-public class AthenaBlindingFlash extends abs_hades_card {
+public class DionysusDrunkenStrike extends abs_hades_card {
     private final static CardInfo cardInfo = new CardInfo(
-            AthenaBlindingFlash.class.getSimpleName(),
-            COSTS[2],
+            DionysusDrunkenStrike.class.getSimpleName(),
+            COSTS[1],
             CardType.ATTACK,
             CardTarget.ENEMY
     );
     public static final String ID = makeID(cardInfo.cardName);
     private static final int DAMAGE = 8;
     private static final int UPG_DAMAGE = 3;
-    private static final int VULNERABLE = 2;
-    public AthenaBlindingFlash() {
+    private static final int HITS = 2;
+    private static final int UPG_HITS = 1;
+    public DionysusDrunkenStrike() {
         super(cardInfo, false);
         setDamage(DAMAGE, UPG_DAMAGE);
-        setMagic(VULNERABLE);
-        this.tags.add(hadesCards.ATHENA);
+        setMagic(HITS, UPG_HITS);
+        this.tags.add(hadesCards.DIONYSUS);
     }
     @Override
     public void use(AbstractPlayer p, AbstractMonster m) {
-        doDmg(m, damage);
-        doPow(m, new VulnerablePower(m, magicNumber, false));
+        for(int i = 0; i < magicNumber; i+= 1){ doDmg(m, damage); }
     }
 }

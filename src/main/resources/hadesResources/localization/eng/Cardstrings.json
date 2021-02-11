@@ -123,5 +123,9 @@
   "${ModID}:PoseidonHydraulicMight": {
     "NAME": "Poseidon's Hydraulic Might",
     "DESCRIPTION": "Deal !D! damage."
+  },
+  "${ModID}:DionysusDrunkenStrike": {
+    "NAME": "Dionysus Drunken Strike",
+    "DESCRIPTION": "Deal !D! damage !M! times."
   }
 }
