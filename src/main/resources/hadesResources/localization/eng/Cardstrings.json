@@ -148,5 +148,9 @@
   "${ModID}:ZeusThunderFlare": {
     "NAME": "Zeus's Thunder Flare",
     "DESCRIPTION": "Play the top card of your draw pile."
+  },
+  "${ModID}:ZeusCloudedJudgement": {
+    "NAME": "Zeus's Clouded Judgement",
+    "DESCRIPTION": "Discard any amount of cards in your hand. NL Gain [E] for each card discarded."
   }
 }
